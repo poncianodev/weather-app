@@ -1,2 +1,9 @@
-# weather-app
-Um aplicativo simples para consulta da previsão do tempo, construído com JavaScript puro para praticar conceitos de manipulação de DOM e consumo de APIs.
+# 🌦️ Aplicativo de Previsão do Tempo
+
+Este é um projeto simples que utiliza JavaScript para buscar e exibir dados de previsão do tempo de uma cidade informada pelo usuário.
+
+**Tecnologias Utilizadas:**
+* HTML
+* CSS
+* JavaScript (ES6+)
+* OpenWeatherMap API
